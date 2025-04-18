@@ -1,0 +1,115 @@
+🗓️ Plano de Estudos DevOps Júnior (6 semanas)
+🔹 Semana 1 – Fundamentos de Linux e Git
+Objetivo: Ficar confortável com terminal e versionamento de código.
+
+📌 Aprender comandos básicos do Linux (cd, ls, pwd, mkdir, chmod, ps, grep, etc.)
+
+📌 Entender permissões de arquivos e usuários
+
+📌 Git básico: clone, init, add, commit, push/pull, merge
+
+🛠️ Projeto: Criar um repositório no GitHub e praticar commits, branches e pull requests
+
+Extra: Bash scripting simples (ex: script que faz backup de arquivos)
+
+Recursos:
+
+Curso "Linux Essentials" no YouTube ou Alura
+
+GitHub Hello World tutorial
+
+🔹 Semana 2 – Fundamentos de Cloud (foco em AWS)
+Objetivo: Entender os principais serviços e a arquitetura básica.
+
+📌 Conceitos: IaaS, PaaS, SaaS, regiões, zonas de disponibilidade
+
+📌 AWS: EC2, S3, IAM, VPC (introdução e uso básico)
+
+🛠️ Projeto: Criar uma instância EC2 e subir um site HTML simples
+
+Extra: Explorar IAM e criar um usuário com permissões limitadas
+
+Recursos:
+
+AWS Free Tier (para praticar de graça)
+
+Curso "AWS para iniciantes" no YouTube (ex: LuizTools ou TechWorld com Nana)
+
+AWS Cloud Quest (Jogo interativo da AWS)
+
+🔹 Semana 3 – Docker
+Objetivo: Entender o que é container e como rodar apps com Docker.
+
+📌 Conceitos: Container vs Máquina virtual
+
+📌 Instalar Docker e usar comandos básicos (run, exec, ps, build)
+
+🛠️ Projeto: Dockerizar um app simples (ex: app Node ou Python + HTML)
+
+Extra: Criar seu próprio Dockerfile
+
+Recursos:
+
+Curso "Docker para iniciantes" (ex: Digital Innovation One ou YouTube)
+
+Play with Docker
+
+🔹 Semana 4 – CI/CD (Integração e Entrega Contínua)
+Objetivo: Automatizar build, testes e deploy com uma pipeline.
+
+📌 Entender o que é CI/CD
+
+📌 Escolher uma ferramenta (GitHub Actions, Jenkins ou GitLab CI)
+
+🛠️ Projeto: Criar uma pipeline que testa e faz deploy automático de app Docker
+
+Extra: Adicionar step de lint/test antes do deploy
+
+Recursos:
+
+GitHub Actions Docs + exemplos prontos no GitHub
+
+Curso "CI/CD com GitHub Actions" na Udemy ou YouTube
+
+🔹 Semana 5 – Infraestrutura como Código (IaC)
+Objetivo: Criar infraestrutura usando código (e não cliques).
+
+📌 Aprender o básico de Terraform (ou CloudFormation se preferir)
+
+📌 Escrever código para criar uma EC2 + S3
+
+🛠️ Projeto: Criar infra básica na AWS usando Terraform
+
+Extra: Usar variáveis e outputs no Terraform
+
+Recursos:
+
+Curso "Terraform para iniciantes" (ex: YouTube – Willian Justen, Rockseat, ou Alura)
+
+Terraform by HashiCorp Docs
+
+🔹 Semana 6 – Monitoramento, Logs e Segurança
+Objetivo: Conhecer ferramentas de observabilidade e segurança básica.
+
+📌 Introdução ao CloudWatch, Grafana ou Prometheus
+
+📌 Logs: onde estão, como ler, como alertar
+
+📌 Noções básicas de segurança: chaves SSH, IAM, boas práticas de senhas
+
+🛠️ Projeto: Criar alarme em CloudWatch para monitorar EC2
+
+Recursos:
+
+Curso “Monitoramento com Prometheus e Grafana” (ou use CloudWatch direto na AWS)
+
+AWS Well-Architected Framework (parte de segurança)
+
+🧩 Dicas Gerais
+🔄 Sempre revise o que aprendeu na semana anterior
+
+📂 Organize tudo no GitHub: repositórios com seus scripts, Dockerfiles, pipelines, etc.
+
+💬 Participe de comunidades no Discord, Reddit ou LinkedIn
+
+🎯 Foque mais em entender o porquê, e não só o “como”!
